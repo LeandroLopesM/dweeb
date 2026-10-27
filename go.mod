@@ -1,4 +1,4 @@
-module cheshire
+module dweeb
 
 go 1.27.2
 
